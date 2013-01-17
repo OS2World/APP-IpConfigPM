@@ -1,0 +1,20 @@
+101 Configure Network Interfaces
+120 Use ~DHCP
+121 Set IP ~manually
+122 Host Name
+129 MAC Address
+131 Interface
+134 IP Address
+140 Subnet Mask
+150 Default Gateway
+170 Domain Name
+181 DNS 1
+191 DNS 2
+201 DNS 3
+210 ~Apply
+211 ~Exit
+212 ~Route
+220 No interfaces to configure
+230 ~Load
+231 ~Save
+232 Re~fresh

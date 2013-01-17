@@ -1,0 +1,20 @@
+101 Konfiguriranje mre§nih adaptera
+120 Upotrebi DHCP za IP adresu
+121 Upotrebi ovu IP adresu
+122 Ime kopjutera
+129 MAC adresa
+131 Mre§ni adapter
+134 IP adresa
+140 Maska podomre§ja
+150 Priuzeti prelaz
+170 Naziv domene
+181 1.imenski server
+191 2.imenski server
+201 3.imenski server
+210 Prihvati
+211 Izlaz
+212 Route
+220 Ne najdem mre§nih kartic
+230 ~Odpri
+231 ~Shrani
+232 Os~ve§i

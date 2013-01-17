@@ -1,0 +1,28 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: IpConfigPM1.4
+       Short Description: Graphical interface to change IP address for network addapters
+        Long Description: Graphical interface to change IP address for network addapters Domain name and DNS servers using operating system eComstation and OS/2 Warp.
+
+
+      Proposed directory
+           for placement: /pub/os2/util/network/tcpip
+
+               Your name: Dusan Golubic 
+           Email address: dusan at lumic dot si
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? Yes
+
+Operating System/Version: eCs 1.+, Warp 4.+
+ Additional requirements: RexxUtil.dll
+
+                Replaces: (none)
+
+
+

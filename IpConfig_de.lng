@@ -1,0 +1,20 @@
+101 Netzwerkkarten-Konfiguration
+120 Benutze ~DHCP
+121 Setze IP ~manuell
+122 Computer-Name
+129 MAC-Adresse
+131 Netzwerk-Adapter
+134 IP-Adresse
+140 Subnetz-Maske
+150 Standard Gateway
+170 Dom„nen-Name
+181 DNS Server 1
+191 DNS Server 2
+201 DNS Server 3
+210 ~Best„tigen
+211 ~Abbruch
+212 ~Route
+220 No interfaces to configure
+230 ~Load
+231 ~Save
+232 Re~fresh

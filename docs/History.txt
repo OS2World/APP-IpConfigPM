@@ -1,0 +1,32 @@
+Many thanks to: 
+Goran Ivankovic - advice to use DrDialog, helping me at first steps, 
+writing procedure for language selection,
+Wolfi, Lewis G Rosenthal, Klaus Lehmann, Craig Colby, warpspace,
+Daniel Caetano, Mike Snyder
+who helped me with bug report, suggestions and confirming that program
+is usable.
+
+Avgust 2008
+I made rexx procedure for text based IP config
+
+October 2008 Version 1.0
+Made 1st GUI
+
+November 2008 Version 1.1
+Add - language selection
+
+December 2008 Version 1.1
+Add - configure interface using DHCP
+
+January 2009 Version 1.2
+Add - Push button Route - show route in E editor
+Add - Speed connection
+Change - automatic language selection based on LANG variable
+
+Jun 2009 Version 1.3
+Add - check presence of eth interfaces
+Optimize - minor changes in code
+Change - improve lease request from DHCP
+
+May 2010 Version 1.4
+Add - possibility to save/read several configurations for different networks

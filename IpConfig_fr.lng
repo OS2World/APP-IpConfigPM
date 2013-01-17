@@ -1,0 +1,20 @@
+101 Param‚trage r‚seau
+120 Utilisation de ~DHCP
+121 Param‚trage ~manuel
+122 Nom d'h“te
+129 Adresse MAC
+131 Interface
+134 Adresse IP
+140 Masque de sous-r‚seau
+150 Passerelle par d‚faut
+170 Nom de domaine
+181 Serveur DNS 1
+191 Serveur DNS 2
+201 Serveur DNS 3
+210 App~liquer
+211 ~Quitter
+212 ~Route
+220 No interfaces to configure
+230 ~Load
+231 ~Save
+232 Re~fresh
